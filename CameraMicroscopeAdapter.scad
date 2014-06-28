@@ -4,6 +4,7 @@ radiusLenscone = 22.6;
 err = 0.01;
 clearance = 0.25;
 lipthickness = 3;
+$fn=120;
 
 difference(){
 cylinder(h = coneheight, r1 = radiusEyepiece+0.5, r2 = radiusLenscone, center = false);
