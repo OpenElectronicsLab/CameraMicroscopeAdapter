@@ -1,6 +1,6 @@
-coneheight = 24.5;
+coneheight = 20.8;
 radiusEyepiece = 14.05;
-radiusLenscone = 22.6;
+radiusLenscone = 23;
 err = 0.01;
 clearance = 0.25;
 lipthickness = 3;
